@@ -26,5 +26,5 @@ sub binSearch
 		}
 	}
 	print "查找次数:$num\n";
-}
+}。。
 	
